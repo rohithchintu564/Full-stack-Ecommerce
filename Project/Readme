@@ -1,0 +1,5 @@
+This project is based on Spring-boot and AngularCli.
+To run this project follow the steps mentioned below:
+1. Run the db scripts(from starter files) in Sql Workbench.
+2. Open the backend folder in Intellij/STS and ren the main program.
+3. Open the frontend folder with VS Code and run the commands npm install and ng serve in terminal.

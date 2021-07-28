@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class CartItem {\n  constructor(product) {\n    this.id = product.id;\n    this.name = product.name;\n    this.imageUrl = product.imageUrl;\n    this.unitPrice = product.unitPrice;\n    this.quantity = 1;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
